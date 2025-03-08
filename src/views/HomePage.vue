@@ -3,7 +3,7 @@
     <div class="page-content">
       <h1>Welcome to Vue Demo</h1>
       <p>
-        This is a simple demonstration of how Vue.js works. Click on the navigation links to see different components.
+        This is a simple demonstration of how Vue.js works. Click on the navigation links to see different components 11.
       </p>
     </div>
   </div>
